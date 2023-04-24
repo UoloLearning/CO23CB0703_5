@@ -9,7 +9,7 @@ def count_vowels_and_consonants(word):
             num_consonants += 1
     return num_vowels, num_consonants
 
-# Call the count_vowels_and_consonants function with an argument of "hello"
+# Call the count_vowels_and_consonants function with an argument
 vowels, consonents = count_vowels_and_consonants("abcdefghijklmnopqrstuvwxyz")
 
 # Print the result
